@@ -10,3 +10,8 @@
 .blogs {
     background-color: antiquewhite;
 }
+
+.blog-title {
+    font-size: 50px;
+    background-color: blueviolet;
+}
